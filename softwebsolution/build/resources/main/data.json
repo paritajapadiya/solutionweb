@@ -1,0 +1,30 @@
+[
+  {
+    "productId": "P0000001",
+    "name": "Dell Laptop 3505",
+    "price": 70000,
+    "currency": "INR",
+    "updatedOn": "2023-01-01"
+  },
+  {
+    "productId": "P0001001",
+    "name": "HP Pavallion x1",
+    "price": 60000,
+    "currency": "INR",
+    "updatedOn": "2023-05-23"
+  },
+  {
+    "productId": "P0002101",
+    "name": "Dell Vostro 3101",
+    "price": 35000,
+    "currency": "INR",
+    "updatedOn": "2023-03-31"
+  },
+  {
+    "productId": "P0003201",
+    "name": "Apple iPad Gen 9",
+    "price": 42999,
+    "currency": "INR",
+    "updatedOn": "2023-04-01"
+  }
+]
